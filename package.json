@@ -141,7 +141,7 @@
     "eslint-plugin-promise": "^3.0.0",
     "eslint-plugin-react": "^6.0.0",
     "eslint-plugin-standard": "^2.0.0",
-    "history": "^2.0.0",
+    "history": "^3.0.0",
     "karma": "^1.0.0",
     "karma-coverage": "^1.0.0",
     "karma-mocha": "^1.0.1",
